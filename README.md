@@ -10,3 +10,4 @@ The urban city types had a significant higher amount of divers and riders verus 
 
 I would recommend finding a way to economically add more drivers to the suburban, but mostly the rural, city types. If more drivers were available then there would be lower costs per rider thus encouraging more riders. With that, I would also suggest creating a way for suburban and rural riders to schedule rides and blind carpools. This would help drivers in taking more riders going in similar directions at the same time and avoiding a back and forth drive for drivers. This would cut down on time and expenses for the drivers while increasing fares but also reducing fares for the riders. 
 
+![Total PyBer Fare by City Type](analysis_PyPer_fare_summary.png)
